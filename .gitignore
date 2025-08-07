@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# PyCharm settings
+.idea/
+
+# Pip cache
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Local environment variables
+.env
+.env.*
+
+# Streamlit cache
+.streamlit/
+
+# Ollama model downloads (if any, optional)
+ollama/
+
+# Chat history or custom user data
+*.db
+*.sqlite3
+
+# LangGraph compiled artifacts or temp
+__langgraph_cache__/
+
+# OS file clutter
+Thumbs.db
+desktop.ini

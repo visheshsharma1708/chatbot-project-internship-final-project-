@@ -1,0 +1,6 @@
+streamlit
+langchain
+langgraph
+ollama
+langchain-community
+tiktoken
