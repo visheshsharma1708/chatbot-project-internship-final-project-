@@ -63,7 +63,7 @@ def get_bot_response(user_input: str) -> str:
         result = graph.invoke({"question": user_input})
         return result.get("response", "Sorry, I couldn't generate a response.")
     except Exception as e:
-        return f"⚠️ Error: {str(e)}"
+        return f" Error: {str(e)}"
 
 
 if __name__ == "__main__":
