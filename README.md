@@ -75,8 +75,7 @@ Maintains chat history for the current session.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/neomind-ai.git
-cd neomind-ai
+git clone https://github.com/visheshsharma1708/chatbot-project-internship-final-project-
 2. Install Dependencies
 bash
 Copy
